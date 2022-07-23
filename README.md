@@ -1,7 +1,6 @@
 Hey, I'm Timothy Bondarev.
 
 I'm an electrical engineering student at the University of Calgary. 
-I'm also a team lead at [Team Relectric](https://teamrelectric.ca)! 
 You can reach my by phone (+1 403 926 4601), email (tim.bond@live.com), or on Discord (@Catraption#3109).
 
 Have a nice day!
